@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "749747768227",
+    "project_id": "proof-of-concept-3d68c",
+    "storage_bucket": "proof-of-concept-3d68c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749747768227:android:339e8ac439276989f0e816",
+        "android_client_info": {
+          "package_name": "com.example.proof_of_concept"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749747768227-vvc1t7subb76a8j1l7dk2sheuqsbq3lg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs9JxzGaCiRtBloDJGkgQYyVGuLUAfVzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749747768227-vvc1t7subb76a8j1l7dk2sheuqsbq3lg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "749747768227-hcjjkcrb6eft2b08e95l0k1bsa9bku7d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.proofOfConcept"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
